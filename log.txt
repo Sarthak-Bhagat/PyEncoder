@@ -1,0 +1,1 @@
+Codeword:Sarthak Cipher:Ceaser Shift Key :'8' --->  'Aizbpis'------> Cipher:Multiplicative Key'8' ---> 'Amsiqmo'------> Cipher:Affine Key'8,8' ---> 'Iawugaq'------> Cipher:Vigenère Key'World' ---> 'Dscwr'------> Cipher:Vigenère Key'World' ---> 'Hello'------> Cipher:Vigenère Key'World' ---> 'Dscwr'
